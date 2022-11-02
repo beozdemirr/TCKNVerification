@@ -25,7 +25,7 @@ public class Main {
 
         System.out.println(response.body().string());
 
-        /*deneme test 12 12*/
+        //good luck with
 
 
     }
